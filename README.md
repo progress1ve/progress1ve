@@ -5,7 +5,6 @@
   <br><br>
   <p>Developer & creative builder.<br>Turning ideas into applications, tools, and experiences.</p>
   <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT_ME-111111?style=flat-square" alt="About me"></a>
-  <a href="#selected-work"><img src="https://img.shields.io/badge/PROJECTS-111111?style=flat-square" alt="Projects"></a>
   <a href="#toolbox"><img src="https://img.shields.io/badge/TOOLBOX-111111?style=flat-square" alt="Toolbox"></a>
 </div>
 
@@ -21,36 +20,7 @@
 <p>Always learning. Always experimenting.<br><b>Open to interesting projects and collaborations.</b></p>
 </td>
 <td width="32%" align="center">
-<img src="assets/about.png" width="230" alt="Black and white samurai illustration">
-</td>
-</tr>
-</table>
-
-<h2 align="center" id="selected-work">Selected work</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/progress1ve/ae-agent-workflow">ae-agent-workflow ↗</a></h3>
-<p>Bring coding agents into After Effects. Editable motion graphics, local sound design, MCP setup, and export helpers.</p>
-<samp>PYTHON · MCP · AFTER EFFECTS</samp>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/progress1ve/token-mode">token-mode ↗</a></h3>
-<p>Switch agents between economical execution and detailed oversight. A compact skill with per-chat preference persistence.</p>
-<samp>PYTHON · AGENT SKILLS</samp>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/progress1ve/ArcVPN">ArcVPN ↗</a></h3>
-<p>A VPN product connecting application development, customer experience, and infrastructure operations.</p>
-<samp>TYPESCRIPT · PRODUCT · INFRASTRUCTURE</samp>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/progress1ve/abattle">abattle ↗</a></h3>
-<p>An earlier JavaScript project — part of my journey from experimenting with code to building products.</p>
-<samp>JAVASCRIPT · WEB</samp>
+<img src="assets/about.jpg" width="230" alt="Black and white illustration under the stars">
 </td>
 </tr>
 </table>
@@ -82,6 +52,5 @@ Product marketing & creative experiments
 <p><b>Have something worth building?</b><br>I'm interested in ambitious ideas and people who care about making them real.</p>
 <!-- Add a public Telegram or email link when supplied. -->
 <samp>LEARNING. BUILDING. REFINING.</samp>
-<br><br>
-<img src="assets/footer.png" width="100%" alt="Black and white sword detail">
+
 </div>
