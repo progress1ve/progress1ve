@@ -1,76 +1,87 @@
 <div align="center">
-
-<!-- Add your chosen header: <img src="assets/header.png" alt="afterfive — build, design, create" width="100%"> -->
-
-# afterfive
-
-### Developer · Designer · Builder
-
-**From an idea to an interface. From an interface to a working product.**
-
-Web & apps · Telegram bots · Agent tooling · Infrastructure · Motion design
-
-[Explore my work](#selected-work) · [Get in touch](https://github.com/progress1ve)
-
+  <img src="assets/header.png" width="100%" alt="A quiet moment under the stars">
+  <h1>afterfive</h1>
+  <samp>BUILD · DESIGN · CREATE</samp>
+  <br><br>
+  <p>Developer & creative builder.<br>Turning ideas into applications, tools, and experiences.</p>
+  <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT_ME-111111?style=flat-square" alt="About me"></a>
+  <a href="#selected-work"><img src="https://img.shields.io/badge/PROJECTS-111111?style=flat-square" alt="Projects"></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/TOOLBOX-111111?style=flat-square" alt="Toolbox"></a>
 </div>
 
 ---
 
-## About me
+<h2 align="center" id="about-me">About me</h2>
 
-I build applications, Telegram bots, and tools that turn repeated work into practical workflows. My work connects development with design, video editing, server operations, and marketing — the pieces that help a product reach people and keep working.
+<table>
+<tr>
+<td width="68%">
+<p>I build <b>applications, Telegram bots, and agent tools</b>. I like working across disciplines — connecting code with design, motion, infrastructure, and marketing.</p>
+<p>From the first sketch to deployment, I care about making ideas work in the real world. AI-assisted development is part of my process; reviewable changes and practical results are what matter.</p>
+<p>Always learning. Always experimenting.<br><b>Open to interesting projects and collaborations.</b></p>
+</td>
+<td width="32%" align="center">
+<img src="assets/about.png" width="230" alt="Black and white samurai illustration">
+</td>
+</tr>
+</table>
 
-I use AI-assisted development as part of the process, with a focus on outputs I can inspect, maintain, and improve. I'm always learning, experimenting, and turning ideas into things people can use.
+<h2 align="center" id="selected-work">Selected work</h2>
 
-**Open to interesting projects, collaborations, and ambitious ideas.**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/progress1ve/ae-agent-workflow">ae-agent-workflow ↗</a></h3>
+<p>Bring coding agents into After Effects. Editable motion graphics, local sound design, MCP setup, and export helpers.</p>
+<samp>PYTHON · MCP · AFTER EFFECTS</samp>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/progress1ve/token-mode">token-mode ↗</a></h3>
+<p>Switch agents between economical execution and detailed oversight. A compact skill with per-chat preference persistence.</p>
+<samp>PYTHON · AGENT SKILLS</samp>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/progress1ve/ArcVPN">ArcVPN ↗</a></h3>
+<p>A VPN product connecting application development, customer experience, and infrastructure operations.</p>
+<samp>TYPESCRIPT · PRODUCT · INFRASTRUCTURE</samp>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/progress1ve/abattle">abattle ↗</a></h3>
+<p>An earlier JavaScript project — part of my journey from experimenting with code to building products.</p>
+<samp>JAVASCRIPT · WEB</samp>
+</td>
+</tr>
+</table>
 
-<!-- Optional right-side illustration belongs here once selected. -->
+<h2 align="center">Beyond code</h2>
 
-## Selected work
-
-| Project | What I’m building |
-| :--- | :--- |
-| **[ae-agent-workflow](https://github.com/progress1ve/ae-agent-workflow)** | Editable After Effects workflows for coding agents: skills, MCP setup, local sound design, and export helpers. |
-| **[token-mode](https://github.com/progress1ve/token-mode)** | A compact agent skill for switching between economical execution and detailed oversight, with per-chat mode persistence. |
-| **[ArcVPN](https://github.com/progress1ve/ArcVPN)** | A VPN product bringing together application development, customer experience, and infrastructure operations. |
-| **[abattle](https://github.com/progress1ve/abattle)** | An earlier JavaScript project — part of my development journey. |
-
-## What I work on
-
-**Applications & bots** — web applications, product interfaces, Telegram bots, and integrations.
-
-**Tools & automation** — agent skills, MCP integrations, and helpers that make workflows repeatable.
-
-**Design & motion** — interface design, video editing, and After Effects animation.
-
-**Infrastructure & growth** — server operations, deployments, and marketing around the products I build.
-
-## Languages & tools
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=58a6ff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=79c0ff" alt="Python">
-  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=f78166" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=ffffff" alt="Linux">
-  <img src="https://img.shields.io/badge/After_Effects-161b22?style=flat-square&logoColor=9999ff" alt="After Effects">
+<p align="center">
+Applications & Telegram bots<br>
+Interface design & motion graphics<br>
+Server operations & automation<br>
+Product marketing & creative experiments
 </p>
 
-## How I build
+<h2 align="center" id="toolbox">Toolbox</h2>
 
-- Start with the problem and make the result tangible.
-- Keep changes reviewable and workflows reproducible.
-- Check what ships, learn from feedback, and improve the next version.
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/After_Effects-111111?style=flat-square" alt="After Effects">
+<img src="https://img.shields.io/badge/MCP-111111?style=flat-square" alt="MCP">
+</p>
 
 ---
 
 <div align="center">
-
-**Have something worth building? Let’s talk.**
-
-<!-- Replace this link with your public Telegram or email when chosen. -->
-[Find me on GitHub](https://github.com/progress1ve)
-
-<sub>Learning. Building. Refining.</sub>
-
+<p><b>Have something worth building?</b><br>I'm interested in ambitious ideas and people who care about making them real.</p>
+<!-- Add a public Telegram or email link when supplied. -->
+<samp>LEARNING. BUILDING. REFINING.</samp>
+<br><br>
+<img src="assets/footer.png" width="100%" alt="Black and white sword detail">
 </div>
